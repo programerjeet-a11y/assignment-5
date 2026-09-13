@@ -24,7 +24,7 @@ const Hero = () => {
               type="button"
               className="rounded-full bg-linear-to-r from-orange-500 via-pink-500 to-violet-600 px-6 py-3 text-sm font-semibold text-white shadow-md transition duration-300 hover:scale-105"
             >
-              Explore Technologie
+              Explore Technologies
             </button>
 
             <button
